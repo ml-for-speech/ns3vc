@@ -10,6 +10,19 @@ NOTE: I am not affiliated with Amphion.
 pip install ns3vc
 ```
 
+## Usage
+
+```
+from lvc import LVC, LVCAudio
+l = LVC()
+
+l.infer_file(
+    'orig.wav',
+    'sample.wav',
+    'target.wav',
+)
+```
+
 ## Citations
 
 ```bibtex
