@@ -12,7 +12,7 @@ pip install ns3vc
 
 ## Usage
 
-```
+```python
 from lvc import LVC, LVCAudio
 l = LVC()
 
