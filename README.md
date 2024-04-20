@@ -1,4 +1,4 @@
-# ns3vc
+# NS3VC
 
 An unofficial package for voice conversion powered by [Amphion](https://github.com/open-mmlab/Amphion)'s NaturalSpeech3 implementation. All credit goes to Amphion.
 
