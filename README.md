@@ -13,8 +13,8 @@ pip install ns3vc
 ## Usage
 
 ```python
-from lvc import LVC, LVCAudio
-l = LVC()
+from lvc import NS3VC, NS3VCAudio
+l = NS3VC()
 
 l.infer_file(
     'orig.wav',
